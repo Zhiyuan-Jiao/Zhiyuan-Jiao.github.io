@@ -15,7 +15,7 @@ My passion lies in creating a good geographic information system that could auto
 Bachelor's Degreee, Geography - Data Science
 (2018 - 2022)
 
-# Experience
+## Experience
 
 **Research Assistant**, University of Washington, Department of Geography (Jan 2021 - Present)
 

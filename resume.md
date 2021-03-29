@@ -1,5 +1,8 @@
 # Zhiyuan Jiao
 
+<br>
+<br>
+
 zkjiao73@gmail.com
 
 http://www.linkedin.com/in/zhiyuan-jiao-5a8795172
@@ -26,7 +29,6 @@ The LGBTQ+ Space project is to manage the digitized Damron guide’s dataset, in
 - Currently working on creating early mockup designs for the whole website.
 
 <br>
-<br>
 
 **UX/UI Intern**, University of Washington, Department of Near Eastern Language and Civilization (Sep 2019 – Present)
 
@@ -34,20 +36,18 @@ The project is to digitalize the Svoboda Diaries which comprise over 40 years of
 - Currently working on designing and programming of the Diary Viewer page, uploading new diaries. Implemented different scrolling options, page search function, timeline-diary viewer connection, and resolved mobile version issues.
 
 <br>
-<br>
 
 **Dining Student Assistant**, University of Washington (Jun 2019 - Jul 2019)
 
 - Provide customer service, including cashiering, producing, preparing, stocking, catering and food-handling
 
 <br>
-<br>
 
 **English Tutor**, Test Bay Education (Aug 2018)
 
 - Answer homework related questions whenever needed
 - Assign students' homework and check up with them on a daily basis
-<br>
+
 <br>
 
 ## Volunteer Service

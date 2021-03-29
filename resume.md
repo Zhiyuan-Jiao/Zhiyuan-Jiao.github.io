@@ -1,3 +1,4 @@
+![profile_image](profile_image.jpg)
 # Zhiyuan Jiao
 
 <br>

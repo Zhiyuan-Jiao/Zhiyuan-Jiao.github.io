@@ -13,13 +13,12 @@ My passion lies in creating a good geographic information system that could auto
 ## Education
 
 **University of Washington (Seattle, WA)**
+
 Bachelor's Degreee, Geography - Data Science
 (2018 - 2022)
 <br>
 <br>
 ## Experience
-<br>
-<br>
 
 **Research Assistant**, University of Washington, Department of Geography (Jan 2021 - Present)
 
@@ -48,13 +47,10 @@ The project is to digitalize the Svoboda Diaries which comprise over 40 years of
 
 - Answer homework related questions whenever needed
 - Assign students' homework and check up with them on a daily basis
-
 <br>
 <br>
 
 ## Volunteer Service
-<br>
-<br>
 
 **Local Volunteer**, 2020 Microsoft Asian Spring Festival (Jan 2020)
 
